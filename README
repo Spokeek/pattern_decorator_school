@@ -1,0 +1,8 @@
+Decorator pattern
+
+An example of how to use the decorator design pattern.
+
+Three types of decoration:
+- Red background
+- White color font
+- Bold Style
