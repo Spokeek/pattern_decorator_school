@@ -1,3 +1,3 @@
 public interface ButtonInterface {
-    public MyButton get();
+    public MyButton get ();
 }

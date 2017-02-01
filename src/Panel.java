@@ -26,11 +26,6 @@ public class Panel extends JPanel {
         });
 
         MyButton button3 = new MyButton ("Bold button");
-        button3.addActionListener (new ActionListener () {
-            public void actionPerformed (ActionEvent e) {
-                button = new BoldButton (button).get ();
-            }
-        });
 
 
         add (button1, BorderLayout.WEST);
